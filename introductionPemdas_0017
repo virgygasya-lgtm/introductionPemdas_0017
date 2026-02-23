@@ -10,3 +10,14 @@ int main() // program  utama
     // menampilkan numeris
     cout << 18;
 }
+// Langkah 3
+cout << "Masukan lebar :"
+cin >> lebar;
+
+// Langkah 4 
+luas = panjang * lebar;
+
+// Langkah 5 
+cout << "Hasilnya : "<< luas;
+
+// selesai
