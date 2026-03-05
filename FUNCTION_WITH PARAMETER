@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int panjang, lebar;
+
+void input()
+{ 
+    cout << "Masukan panjang :";
+    cin >> panjang;
+    cout << "Masukan Lebar :";
+    cin >> Lebar;
+    
+}
+}
